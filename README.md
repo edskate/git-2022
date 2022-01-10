@@ -1,10 +1,5 @@
 # git-2022
+
 criação de letras
+Versionamento en construção
 
-text
-
-ola mundo 
-
-ola 
-world coultry
-ola 
